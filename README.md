@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### My Name is Thomas, and
+
  🔭 I’m currently working on trying to make a super compact pastebin type website
  
  🌱 I’m currently learning C
@@ -17,3 +19,4 @@
  ⚡ Fun fact: I spent the entirety of my elementary school years as an unspoken tech specialist assitant at every school I went to.
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=darkwolfxj)](https://github.com/darkwolfxj/github-readme-stats)
+
