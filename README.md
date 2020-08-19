@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My Name is Thomas, and
+### I'm Thomas J Shotts Jr.
 
  🔭 I’m currently working on trying to make a super compact pastebin type website
  
