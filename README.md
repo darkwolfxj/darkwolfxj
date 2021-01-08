@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Thomas J Shotts Jr.
+### I'm Haunt
 
  🔭 I’m currently working on trying to make a super compact pastebin type website
  
@@ -11,10 +11,6 @@
  🤔 I’m looking for help with my job search
  
  💬 Ask me about my love for Python
- 
- 📫 How to reach me: [Email](mailto:thomasjshottsjr@gmail.com) | [LinkedIn](https://linkedin.com/in/thomasshottsjr) 
- 
- 😄 Pronouns: He/Him/His
  
  ⚡ Fun fact: I spent the entirety of my elementary school years as an unspoken tech specialist assitant at every school I went to.
 
