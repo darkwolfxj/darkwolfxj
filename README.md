@@ -2,7 +2,7 @@
 
 ### I'm Haunt
 
- 🔭 I’m currently working on trying to make a super compact pastebin type website
+ 🔭 I recently finished making a super compact pastebin type website
  
  🌱 I’m currently learning C
  
